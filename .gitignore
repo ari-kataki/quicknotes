@@ -1,0 +1,9 @@
+config.php
+.env
+.env.*
+node_modules/
+.expo/
+.idea/
+.vscode/
+.DS_Store
+*.log
